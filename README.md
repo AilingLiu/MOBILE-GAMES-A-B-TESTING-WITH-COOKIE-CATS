@@ -1,7 +1,6 @@
 # MOBILE-GAMES-A-B-TESTING-WITH-COOKIE-CATS
 
-Project on DataCamp.
-https://www.datacamp.com/projects/184
+Project Data from [DataCamp](https://www.datacamp.com/projects/184).
 
 Cookie Cats is a hugely popular mobile puzzle game developed by Tactile Entertainment. It's a classic "connect three" style puzzle game where the player must connect tiles of the same color in order to clear the board and win the level. It also features singing cats. We're not kidding! Check out this short demo:
 
